@@ -10,4 +10,4 @@ Um validador de CPF simples utilizando JavaScript com uma básica estrutura html
 Projeto relizado em sala de aula a fim de aprimorar minhas habilidades com a linguagem JavaScriprt.
 
 ## Link para a página:
-
+https://victorlapadev.github.io/ValidadorCPFJavaScript/
