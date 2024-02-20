@@ -1,0 +1,59 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+header{
+    display: flex;
+    background-color: blue;
+    color: black;
+}
+
+main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#interface{
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+#titulo{
+    height: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+}
+
+#inputs{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+button{
+    cursor: pointer;
+}
+
+#results{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#resultado{
+    background-color: white;
+    border-radius: 5px;
+}
+
+#invalido{
+    color: red;
+}
+
+#valido{
+    color: green;
+}
